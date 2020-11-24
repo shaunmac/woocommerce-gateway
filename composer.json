@@ -1,5 +1,5 @@
 {
-    "name": "cryptocurrencycheckout/woocommerce-gateway",
+    "name": "shaunmac/woocommerce-gateway",
     "description": "WooCommerce Crypto payment gateway",
     "keywords": ["wordpress", "plugin"],
     "homepage": "https://github.com/shaunmac/woocommerce-gateway",
