@@ -1,0 +1,16 @@
+{
+    "name": "cryptocurrencycheckout/woocommerce-gateway",
+    "description": "WooCommerce Crypto payment gateway",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/shaunmac/woocommerce-gateway",
+    "authors": [
+      {
+        "name": "cryptocurrencycheckout",
+        "homepage": "https://cryptocurrencycheckout.com/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=5.6"
+    }
+  }
